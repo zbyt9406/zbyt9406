@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Zahra Bayat
 
-<!--
-**zbyt9406/zbyt9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a master’s student in **Digital Electronic Systems** at **Khajeh Nasir al-Din Toosi University of Technology (KNTU)**.  
+🔬 My research and projects focus on **Biological Signal Processing**, with a strong interest in applying **Machine Learning** and **Deep Learning** techniques to real-world problems.  
+📸 I am also passionate about **Image Processing** and its applications in AI-driven systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Interests
+- Biological Signal Processing  
+- Machine Learning & Deep Learning  
+- Image Processing  
+- AI Applications in Healthcare  
+
+---
+
+✨ Always eager to learn, collaborate, and apply AI to impactful projects!
+
